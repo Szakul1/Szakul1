@@ -46,7 +46,7 @@
 
 ### Main projects
 
-- <a href="https://github.com/Szakul1/discord-clone">Discord clone</a> (Spring + Angular + MySQL + Minio)
+- <a href="https://github.com/Szakul1/discord-clone">Discord clone</a> (Spring boot + Angular + MySQL + Minio)
 - <a href="https://github.com/Szakul1/chessApp">Chess app</a> (Java + Android)
 
 ### Small projects
